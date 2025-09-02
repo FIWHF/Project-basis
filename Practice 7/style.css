@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+a {
+    color:gray;
+    text-decoration: none;
+}
+
+.header {
+    background-color: darkgray;
+    padding: 5px;
+    display: flex;
+}
+
+.header img {
+    width: 900px;
+    height: 480px;
+}
+
+.NavBar {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 20px;
+    padding-right: 20px;
+    
+}
